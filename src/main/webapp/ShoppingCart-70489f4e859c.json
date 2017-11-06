@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shoppingcart-182405",
+  "private_key_id": "70489f4e859c0bf6d4936001fa9b607ae4bdc2bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCptbf069ZpRkmK\n5BOtm/Jh4mgB93ejowLRXCwou+7kbojyMhN53DdBXMJwcqg88qfhvKGJvsAD/CKa\nB+MV4Nr/ZSk1BR1v9/9FKpaNwom2FWdzKeE8ES+I2Xt9hIgtaxrtsAcJOSXzzHw4\ntANjeqpjpWAnrMUhICQq+2OSqbUk0hZdZZYu5QlyPeRYBXAbVDINODx2CUNbaRZx\nc4UHbIGXOQU0TlTxC+t6/rdB47VvS8XiF3Hkncp2XGj8QLiI8fZALWbG+6qtdnl+\ngSZ5yO3SM0fj3E82Ffnx5WYNATQDkbqRfOdQCN22vX9Gu2bJ3IbiXt7AOPDgeozQ\nCXBJIj5/AgMBAAECggEANGp5Ri6/GuXIGhtGjqTvUFc+u3jE3WggGyymQPCGoMwZ\nBQD9bfJbqJbvQQ7Qsn5Z5sk9dU9SfAiYYU2VUDESQrZqa0NIq8gDckfslx0iLnhe\n6r1hIQ3HyjMtxn80Fh8SAp6PFcSuWaXrKhJDR6rfzIYL9EUS35/PO+1H/EjpN1Ug\n0q1JJGbpA0BJzIReOWXMIuWo0es+t8xCVa5aNaNp+KSHH/sOkYrp2qTjBSdNpS5A\nhbG1ZWrgcVwlp17JaGpsRmofsaHzK6b8hlEWh7ejZnLojrWizYBUVQXff+LEPpZD\nwmCtKALQNvpOxQI/8Csu3fkccebPvjAZl2t8vJSVTQKBgQDgbbD/qjn1M0KT47ss\n9yFYLuiUQDSsBG5Ck9oDTzi9oUxDJp22CuFmGwoaImO9JXDhzM3Hf5Tr2E7E2FN7\nxEvmjYgG+YHJADye56Nb2fhiUoEbTAp599s6+fByQnzdhKaow0pZ9gmv7l1hkr+h\n5lOha4zrEqdVAbedWPZfR3vtUwKBgQDBlXP5q6pfNfQ8y+iKPBhskw5bPOfgZXE3\nlxhQ64xyZCo20Cb6zKAI17Wo6odqVEpUdhZPZvW8bCb8dMM4Nmthv8gO21Xwwdup\nNeK09+AjNUz+71LivgjxbUH/0LxtS1rq8eOQKCkaCv6nJlVp6V60XYt4Nw3d2d5z\nzlo2NSOYpQKBgBB8PjopeORoBYXzfnZJGOvvVio9pSDVmnvNfIAtu49CX+W22nLa\nzb/AULemuwjTzTzo3FzBJGFGnFKdSVSYELM4xjss7LmlCM7rWPaQRkyCnvUwWrym\n1jW40k6yT5W9/rf60GVXS1LfAYD/VJBB6Pa8fbduwVffLmuic0aAa7v9AoGBAINh\n6n9VyeCqnqOwhJdlJ/Jwb/ruQDVkw81Fx+QLqZttbdUbuojW3fqCZDFLUzKQGI5w\nQr4LE9aY1HDc0i3RiVmjLqUeqZooB+w0vTOzU7SxlRsk1G09KpaoX3W+dlP7I653\nEsog55xcP+6zrp6eG39wSZsCSm/6UObp8wH9WLZdAoGAE7NUUiwJzsm5Zjw3jbeU\nkxb+zPB+g/fY4KFWQJJUzZph35jgLRfxVdSwkziS5Jz3nkOJcpAT7QSm//7j1GmQ\nbZNSmdjtDM7bZjoEO0nn5Sb+i3XiCI9vhztH2RsU5F9xGOv8V0R/9aX7RWU5ex8k\nTWt6+iMuwHjHVLf1soL8HGQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hendy-20@shoppingcart-182405.iam.gserviceaccount.com",
+  "client_id": "106779732869677671881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hendy-20%40shoppingcart-182405.iam.gserviceaccount.com"
+}
